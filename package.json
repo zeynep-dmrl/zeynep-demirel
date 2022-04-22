@@ -1,0 +1,17 @@
+{
+  "name": "midterm-app",
+  "version": "1.0.0",
+  "description": "NodeJs Vize Sınavı",
+  "main": "web-server/src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node web-server/src/app.js"
+  },
+  "keywords": [],
+  "author": "Zeynep Demirel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
